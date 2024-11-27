@@ -1,2 +1,2 @@
 # PlayerDice-
-A simple Ppoint betting program
+A Simple Point betting program
